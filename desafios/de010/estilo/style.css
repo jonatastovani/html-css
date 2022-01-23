@@ -26,18 +26,14 @@
     padding: 0px;
 }
 body{
-    background-color: var(--cor0);
+    background-image: linear-gradient(to bottom, var(--cor1),var(--cor5));
     font-family:var(--fonte-padrao);
-    /*font-weight: normal;
-    margin: 0px;*/
 }
 header {
     background-image: linear-gradient(to bottom, var(--cor3),var(--cor5));
     height: 100%;
     min-height: 150px;
     text-align: center;
-        /*margin: auto;
-*/
 }
 header h1 {
     color: white;
